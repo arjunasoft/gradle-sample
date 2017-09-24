@@ -9,7 +9,7 @@ public class ReadWelcomeMessageTest {
 	public void readWelcomeMessage(){
 		final ReadWelcomeMessage reader = new ReadWelcomeMessageImpl();
 		final String realMessage = reader.getWelcomeMessage();
-		final String expectedMessage = "Welcome to Gradle....";
+		final String expectedMessage = "Welcome to Gradle.";
 		Assert.assertEquals("Get text from implementation", expectedMessage, realMessage);
 	}
 }
