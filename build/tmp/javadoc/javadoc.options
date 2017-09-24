@@ -1,0 +1,8 @@
+-classpath 'E:\\project\\gradle\\simple\\build\\classes\\java\\main;E:\\project\\gradle\\simple\\build\\resources\\main'
+-d 'E:\\project\\gradle\\simple\\build\\docs\\javadoc'
+-doctitle 'simple 1.0 API'
+-quiet 
+-windowtitle 'simple 1.0 API'
+'E:\\project\\gradle\\simple\\src\\main\\java\\gradle\\sample\\ReadWelcomeMessage.java'
+'E:\\project\\gradle\\simple\\src\\main\\java\\gradle\\sample\\ReadWelcomeMessageImpl.java'
+'E:\\project\\gradle\\simple\\src\\main\\java\\gradle\\sample\\SampleApp.java'
